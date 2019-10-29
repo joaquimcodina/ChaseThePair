@@ -12,5 +12,7 @@ public class Main {
         int max[] = Max.init(setA, setB, toChase);
         int result[] = Result.init(min, max, toChase);
 
+        //Print result
+        System.out.println("Result: "+ Arrays.toString(result));
     }
 }
