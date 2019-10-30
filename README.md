@@ -36,8 +36,14 @@ Se pueden usar algoritmos de sort para ordenar los datos y sacarles partido para
 
 Teniendo en cuenta los anteriores puntos notificados, todas las técnicas de programación (legales) están permitidas si con ellas conseguís un mejor tiempo.
 
+## Información
+Group name: Joaquim Codina
+Cost: O(n)
+Time expend: 0.004s
+Sets size: 10
+
 ## Requisitos
-El reto ha sido desarrollado en Java8.
+El reto ha sido desarrollado en Java.
 
 ## Authors
 
