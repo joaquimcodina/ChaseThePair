@@ -20,6 +20,15 @@ public class Min {
                 min[1] = setB[i];
             }
         }
+
+        if(toChase <= setA[0]){
+            min[0] = setA[0];
+        }
+
+        if(toChase <= setB[0]){
+            min[1] = setB[0];
+        }
+
         return min;
     }
 }

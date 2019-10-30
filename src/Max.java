@@ -21,6 +21,15 @@ public class Max {
                 max[1] = setB[i];
             }
         }
+
+        if(toChase >= setA[0]){
+            max[0] = setA[0];
+        }
+
+        if(toChase >= setB[0]){
+            max[1] = setB[0];
+        }
+
         return max;
     }
 }
