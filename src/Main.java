@@ -9,12 +9,15 @@ public class Main {
         Integer setB[] = {94,11,62,89,28,74,11,45,37,6};
 
         //Execute operations
+        long start = System.currentTimeMillis();
         int min[] = Min.init(setA, setB, toChase);
         int max[] = Max.init(setA, setB, toChase);
         int result[] = Result.init(min, max, toChase);
+        long end = System.currentTimeMillis();
 
         //Print result
         System.out.println("Number to chase: " + toChase+"\n" +
-                "Result: " + Arrays.toString(result));
+                "Result: " + Arrays.toString(result)+"\n" +
+                "Time: "+(end - start)/1000.0+"s");
     }
 }
