@@ -39,14 +39,15 @@ Se pueden usar algoritmos de sort para ordenar los datos y sacarles partido para
 Teniendo en cuenta los anteriores puntos notificados, todas las técnicas de programación (legales) están permitidas si con ellas conseguís un mejor tiempo.
 
 ## Información
-- Group name: Joaquim Codina
+- Group name: [Joaquim Codina](https://github.com/joaquimcodina)
 - Cost: O(n)
 - Time expend: 0.004s
 - Sets size: 10
 
 ## Requisitos
-El reto ha sido desarrollado en Java.
 
-## Authors
+### Lenguaje de programación
+El reto ha sido desarrollado en Java (JetBrains IntelliJ IDEA).
 
-- [Joaquim Codina](https://github.com/joaquimcodina)
+### Sistema operativo
+Durante el reto se ha utilizado Ubuntu 18.04.3 (64 bits).
