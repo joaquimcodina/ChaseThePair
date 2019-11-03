@@ -3,6 +3,8 @@
 ## Descripción
 Dado un número (número A) obtén el par de números más cercano (número B y número C) provenientes de dos sets formados por números aleatorios. Cuando existen dos números provinientes de un mismo set que se encuentran a la misma distancia del resultado puede devolver cualquiera de los dos.
 
+El programa nos pedirá la longitud de los sets (setA y setB), escribimos la longitud por teclado. Una vez generado los sets (setA y setB) con la longitud deseada, obtendremos un número aleatorio (toChase) donde el valor se encuentra en el rango númerico de los sets (setA y setB). Para finalizar, muestra por pantalla un set (result), en el cual contendra los dos números de los sets (setA y setB) que se acerquen más o sean iguales al número aleatorio (toChase).
+
 ## Ejemplo
 Dados dos sets de valores numericos (SetA y SetB)
 
